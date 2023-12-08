@@ -1,0 +1,56 @@
+status":true,
+"message":"SUCCESS",
+"errorcode":"",
+"data":{}"clientcode":"Your_client_code",
+"password":"Your_pin"
+"totp":"enter_the_code_displayed_on_your_authenticator_app"
+"status":true,
+"message":"SUCCESS",
+"errorcode":"",
+"data":{
+"jwtToken":"eyJhbGciOiJIUzUxMiJ9.eyJzdWI...",
+"refreshToken":"eyJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE1OTk0ODkwMz...",
+"feedToken":"eyJhbGciOiJIUzUxMiJ9.eyJ1c2Vy…"
+"refreshToken":"eyJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE1OTk0OD..."
+"status":true,
+"message":"SUCCESS",
+"errorcode":"",
+"data":{
+"jwtToken":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIi...",
+"refreshToken":"eyJhbGciOiJIUzUxMiJ9.e...",
+"feedToken":"eyJhbGciOiJIUzUxMiJ9.eyJ1c2Vy…"
+"status":true,
+"message":"SUCCESS",
+"errorcode":"",
+"data":{
+"clientcode":"YOUR_CLIENT_CODE",
+"name":"YOUR_NAME",
+"email":"YOUR_EMAIL",
+"mobileno":"YOUR_PHONE_NUMBER",
+"exchanges":"[ "NSE", "BSE", "MCX", "CDS", "NCDEX", "NFO" ]",
+"products":"[ "DELIVERY", "INTRADAY", "MARGIN"]",
+"lastlogintime":"",
+"brokerid":"B2C",
+"status":true,
+"message":"SUCCESS",
+"errorcode":"",
+"data":{
+"net":"9999999999999",
+"availablecash":"9999999999999",
+"availableintradaypayin":"0",
+"availablelimitmargin":"0",
+"collateral":"0",
+"m2munrealized":"0",
+"m2mrealized":"0",
+"utiliseddebits":"0",
+"utilisedspan":"0",
+"utilisedoptionpremium":"0",
+"utilisedholdingsales":"0",
+"utilisedexposure":"0",
+"utilisedturnover":"0",
+"utilisedpayout":"0",
+ "clientcode": "CLIENT_CODE"
+   "status": true,
+     "message": "SUCCESS",
+     "errorcode": "",
+     "data": ""
